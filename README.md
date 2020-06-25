@@ -1,7 +1,7 @@
 # binaryMapping
 ## Using binary mapping to create recursive like images
 
-![nested circles](/github.com/greggelong/binaryMapping/blob/master/Firefox_Screenshot_2020-06-25T20-53-27.956Z.png)
+![nested circles](//greggelong/binaryMapping/blob/master/Firefox_Screenshot_2020-06-25T20-53-27.956Z.png)
 
 In computer science the topic of recursion is often collocated with phrases like 'leap of faith' or words like 'magic'. And it is easy to see why, as recursion can in a few lines of code in a well designed function solve problems like, towers of Hanoi or draw complicated images like the nested circles in red above. The problem is that these functions are a back box during the processing. Things are put on the stack and taken off and returned and you don't have access to them until the end. That means for creative visualization you can't show the animation.
 
