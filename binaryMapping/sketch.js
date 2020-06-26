@@ -49,7 +49,7 @@ Here I am using a binary mapping technique to draw the nested circles without re
 
   let binString = targetNumber.toString(2); // eg. 30 to '11110'
   let binArr = binString.split(""); // eg. '11110' to [1,1,1,1,0]
-  binArr.shift(); // take off the first element it will always be 1 and the first square will be set directly
+  binArr.shift(); // take off the first element it will always be 1 and the first circle will be set directly
   push()
   // place the first circle in center of screen
   translate(width / 2, height-height / 4); // move to the middle of screen 
