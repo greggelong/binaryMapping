@@ -9,6 +9,8 @@ Here I am using a binary mapping technique to draw the nested circles without re
 
 ## [See it in action](https://editor.p5js.org/greggelong/present/yXtB7pCrh)
 
+## [live on github](https://greggelong.github.io/binaryMapping/binaryMapping/index.html/)
+
 ![nested circles](Firefox_Screenshot_2020-06-25T20-53-27.956Z.png)
 
 [Home](https://greggelong.github.io/)
